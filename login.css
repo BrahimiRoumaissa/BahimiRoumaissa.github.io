@@ -1,0 +1,67 @@
+body{
+    margin: 0;
+     background-color: #2b5168;
+}
+
+.login_content{
+    width: 500px;
+    margin: 2% auto;
+    border-radius: 70px;
+    background-color: #07283c;
+}
+.login_head{
+    text-align: center;
+}
+.login_head img{
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    margin-top: 50px;
+    border-radius: 50%;
+    border: 2px goldenrod solid ;
+}
+.login_titel{
+    font-size: 30px;
+    color: goldenrod;
+    font-weight: bold;
+    font-style: italic;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.login_body{
+    padding: 10%;
+    color: white;
+}
+.Name_label{
+    display: inline-block;
+    width: 33.33%;
+    font-weight: bold;
+    font-style: italic;
+}
+.Name_input{
+    padding:1% 3%;
+    font-size: 14px;
+    border-radius: 50px;
+    border: white 2px solid ;
+}
+label, input, a{
+    margin: 2% 0;
+    padding: 1%;
+} 
+.btn_submit{
+    text-align: center;
+}
+.btn{
+    background-color: goldenrod;
+    border-color: goldenrod;
+    font-weight: bold;
+    font-size: 18px;
+    border-radius: 50px;
+    color: #07283c;
+    text-align: center;
+    width: 250px;
+    padding: 1%;
+}
+a{
+    color: gold;
+    text-decoration: none;
+}
