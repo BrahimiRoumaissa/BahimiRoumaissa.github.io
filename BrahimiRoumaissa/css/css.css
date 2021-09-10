@@ -1,0 +1,88 @@
+.cv_left{
+    font-family: 'Times New Roman', Times, serif;
+    background-color:#e7e7e7 ;
+    padding: 2% ;
+}
+.cv_img{
+     text-align: center;
+}
+.cv_img img{
+    border: 5px rgba(17, 102, 158, 0.87) solid;
+    border-radius: 0 20% ;
+    width: 200px;
+    height: 200px;
+    padding: 2%;
+}
+.cv_name{
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    padding: 1%;
+}
+.cv_info_titel{
+    color:rgba(17, 102, 158, 0.87) ;
+    font-size: 30px;
+    border-bottom: solid rgba(17, 102, 158, 0.87);
+}
+.cv_info_titel1{
+    font-size: 18px;
+    font-style: italic;
+    color:rgb(40, 88, 119) ;
+
+}
+.cv_info_titel1 .row{
+  margin : 10px 0;
+
+}
+.cv_font{
+    margin:2% ;
+    padding: 2%;
+    color: white;
+    border-radius: 50%;
+    text-align: center;
+    background-color: rgba(17, 102, 158, 0.87);
+    
+}
+.cv_fo_ic{
+    width: 25px;
+    height: 20px;
+}
+.cv_font_des1, .cv_interest, .cv_info{
+
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.cv_lang, .cv_formation_r{
+    margin-top: 15px;
+}
+.bol {
+    background-color: rgba(17, 102, 158, 0.87);
+    width: 20px;
+    height: 20px;
+    border-radius: 20px;
+    margin-left: 10px;
+}
+.bol1 {
+    background-color: #bfbfbf;
+    width: 20px;
+    height: 20px;
+    border-radius: 20px;
+    margin-left: 10px;
+}
+.cv_content{
+padding: 3%;
+
+}
+.cv_formation{
+    font-family: 'Times New Roman', Times, serif;
+}
+.cv_formation_pla{
+    font-size: 16px;
+}
+.cv_formation_na{
+    font-weight: bold;
+}
+.cv_Parcours_pla{
+    font-size: 16px;
+}
+
